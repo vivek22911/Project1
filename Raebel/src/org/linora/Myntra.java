@@ -23,6 +23,8 @@ public class Myntra {
 		
 		WebElement q = driver.findElement(By.xpath("//div[@class='submitBottomOption']"));
 		q.click();
+		
+		System.out.println("vivek");
 			
 	}
 }
